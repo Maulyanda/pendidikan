@@ -1,0 +1,45 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT logpendidikan (kebutuhan)+>
+<!ATTLIST logpendidikan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kebutuhan (kode,kategori,keterangan,tujuan,wilayah)>
+<!ATTLIST kebutuhan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kode (#PCDATA)>
+<!ATTLIST kode
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kategori (#PCDATA)>
+<!ATTLIST kategori
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT keterangan (#PCDATA)>
+<!ATTLIST keterangan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tujuan (siswa,ket)>
+<!ATTLIST tujuan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT wilayah (kab,kodewil)>
+<!ATTLIST wilayah
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT siswa (#PCDATA)>
+<!ATTLIST siswa
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT ket (#PCDATA)>
+<!ATTLIST ket
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kab (#PCDATA)>
+<!ATTLIST kab
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kodewil (#PCDATA)>
+<!ATTLIST kodewil
+    xmlns CDATA #FIXED ''>
