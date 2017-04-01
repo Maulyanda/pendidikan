@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE logpendidikan SYSTEM "logpendidikan.dtd">
+<logpendidikan>
+<kebutuhan>
+	<kode>1</kode>
+	<kategori>Les Privat</kategori>
+	<keterangan>Les privat nampaknya menjadi bisnis di bidang pendidikan yang membutuhkan modal relatif kecil,
+		namun bisa menjanjikan penghasilan yang relatif besar.</keterangan>
+	<tujuan>
+		<siswa>SD</siswa>
+		<ket>Membantu anak didik terutama anak SD yang merasa kesulitan mendalami pelajaran di sekolah</ket>
+	</tujuan>
+	<wilayah>
+		<kab> Jawa Barat</kab>
+		<kodewil>32</kodewil>
+	</wilayah>
+</kebutuhan>
+
+<kebutuhan>
+	<kode>2</kode>
+	<kategori>Les Baca Tulis Hitung</kategori>
+	<keterangan>Les Baca Tulis Hitung menjadi bisnis di bidang pendidikan Bisnis ini bisa Anda tekuni terutama Anda yang memang menyukai dan sabar terhadap anak-anak.</keterangan>
+	<tujuan>
+		<siswa>TK</siswa>
+		<ket>Membantu anak yang merasa kesulitan membaca, menulis, dan menghitung</ket>
+	</tujuan>
+	<wilayah>
+		<kab> Jawa Barat</kab>
+		<kodewil>32</kodewil>
+	</wilayah>
+</kebutuhan>
+
+<kebutuhan>
+	<kode>3</kode>
+	<kategori>PAUD</kategori>
+	<keterangan>PAUD merupakan singkatan dari Pendidikan Anak Usia Dini.</keterangan>
+	<tujuan>
+		<siswa>paud</siswa>
+		<ket>Membantu anak usia dini dalam belajar</ket>
+	</tujuan>
+	<wilayah>
+		<kab> Jawa Barat</kab>
+		<kodewil>32</kodewil>
+	</wilayah>
+</kebutuhan>
+
+<kebutuhan>
+	<kode>4</kode>
+	<kategori>Kursus Bahasa Asing</kategori>
+	<keterangan>kemampuan bahasa asing menjadi salah satu keterampilan yang wajib dimiliki untuk melamar pekerjaan, setidaknya kemampuan untuk berbahasa Inggris.</keterangan>
+	<tujuan>
+		<siswa>Siswa Dan Mahasiswa</siswa>
+		<ket>Membantu dalam meningkatkan bahasa asing terutama bahasa inggris.</ket>
+	</tujuan>
+	<wilayah>
+		<kab> Jawa Barat</kab>
+		<kodewil>32</kodewil>
+	</wilayah>
+</kebutuhan>
+
+<kebutuhan>
+	<kode>5</kode>
+	<kategori>Kursus Komputer</kategori>
+	<keterangan>Selain mampu berkomunikasi dalam bahasa asing, kemampuan dan keterampilan lain yang tidak kalah penting untuk melamar pekerjaan dalam sebuah perusahaan adalah keterampilan menggunakan komputer beserta software di dalamnya.</keterangan>
+	<tujuan>
+		<siswa>Siswa Dan Mahasiswa</siswa>
+		<ket>Membantu dalam meningkatkan dalam menggunakan komputer yang dibutuhkan perusahaan</ket>
+	</tujuan>
+	<wilayah>
+		<kab> Jawa Barat</kab>
+		<kodewil>32</kodewil>
+	</wilayah>
+</kebutuhan>
+
+</logpendidikan>
